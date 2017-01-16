@@ -1,0 +1,4 @@
+notify:
+  webhooks:
+    # push
+    - url: http://localhost:8168/api/values/Post
