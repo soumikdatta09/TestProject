@@ -23,7 +23,7 @@ namespace TestProjectForGit
 
         public void test()
         {
-            //test
+            //test nothing
         }
     }
 }
