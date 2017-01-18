@@ -21,7 +21,7 @@ namespace TestProjectForGit
             host.Run();
         }
 
-        public void Test()
+        public void test()
         {
             //test
         }
