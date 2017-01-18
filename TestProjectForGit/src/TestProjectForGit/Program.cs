@@ -24,6 +24,7 @@ namespace TestProjectForGit
         public void nothing()
         {
             //test any
+            string a = "";
         }
     }
 }
