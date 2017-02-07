@@ -2,11 +2,4 @@ notify:
   webhooks:
     # push
     - url: https://procuat.cognizant.com/CCIAPI/api/values
-dependencies:
-  pre:
-    - sudo apt-get install dotnet-dev-1.1.0
-  override:
-    - dotnet restore
-test:
-  override:
-    - dotnet test ./UnitTestProject/
+
