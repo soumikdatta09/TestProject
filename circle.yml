@@ -2,6 +2,6 @@ notify:
   webhooks:
     # push
     - url: https://procuat.cognizant.com/CCIAPI/api/values
-  test:
+test:
   override:
     - dotnet test ./UnitTestProject/
