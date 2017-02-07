@@ -4,4 +4,4 @@ notify:
     - url: https://procuat.cognizant.com/CCIAPI/api/values
   test:
   override:
-    - dotnet test ./UnitTest/
+    - dotnet test ./UnitTestProject/
