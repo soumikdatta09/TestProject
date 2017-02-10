@@ -243,3 +243,10 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/SimpleHelloWorld2
+/SimpleHelloWorld
+/AccessCircleCISimpleDotNet
+/AccessCircleCIDotNet
+/AccessCircleCI
+/tryCoreWebApi
+/CoreWebDemo
