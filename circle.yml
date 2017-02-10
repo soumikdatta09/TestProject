@@ -2,5 +2,6 @@ notify:
   webhooks:
     # push
     - url: https://procuat.cognizant.com/CCIAPI/api/values
+    - url: https://procuat.cognizant.com/CCIAPI/api/values
 
 
