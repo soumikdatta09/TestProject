@@ -22,7 +22,7 @@ namespace TestProjectForGit.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page is here.";
+            ViewData["Message"] = "Your contact page is here...";
 
             return View();
         }
