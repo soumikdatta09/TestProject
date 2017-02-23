@@ -3,3 +3,8 @@ notify:
     # push
     - url: https://procuat.cognizant.com/CCIAPICore/api/CircleCIResponse
     - url: https://procuat.cognizant.com/CCIAPICore/api/WebHookParse
+
+test:
+  override:
+    - echo "test"
+    
